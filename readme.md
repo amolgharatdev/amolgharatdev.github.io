@@ -1,4 +1,5 @@
-<img src="../Assets/octocat-1745611094670.png" width="200"/>  # TECHNICAL BLOGPOSTS 
+<img src="../Assets/octocat-1745611094670.png" width="200"/> 
+# TECHNICAL BLOGPOSTS 
 
 
 ----------------------------------------------------------------------
