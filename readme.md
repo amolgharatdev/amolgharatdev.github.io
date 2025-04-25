@@ -1,4 +1,4 @@
-<div><img src="../Assets/octocat-1745611094670.png" width="200"/> </div>
+<div><img src="../Assets/octocat-1745611094670.png" width="200"> </div>
 <div><h1> TECHNICAL BLOGPOSTS </h1> </div>
 
 
