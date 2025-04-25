@@ -1,5 +1,6 @@
-<div><img src="../Assets/octocat-1745611094670.png" width="200"> </div>
-<div><h1> TECHNICAL BLOGPOSTS </h1> </div>
+
+<div float ="left"><img src="https://github.com/amolgharatdev/amolgharatdev.github.io/blob/Assets/octocat-1745611094670.png" width="300" float ="left"> </div>
+<div float="left"><h1> TECHNICAL BLOGPOSTS </h1> </div>
 
 
 ----------------------------------------------------------------------
