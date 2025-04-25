@@ -1,4 +1,4 @@
-# TECHNICAL BLOGPOSTS
+# TECHNICAL BLOGPOSTS ![img](https://github.com/amolgharatdev/amolgharatdev.github.io/blob/Assets/octocat-1745611094670.png)
 ----------------------------------------------------------------------
 ## M365 | SharePoint | Power Platform | CoPilot | Azure | SQL | Office
 
