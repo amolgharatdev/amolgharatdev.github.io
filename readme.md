@@ -1,5 +1,6 @@
-# TECHNICAL BLOGPOSTS 
-![img](/../Assets/octocat-1745611094670.png =100x20)
+<img src="../Assets/octocat-1745611094670.png" width="200"/>  # TECHNICAL BLOGPOSTS 
+
+
 ----------------------------------------------------------------------
 ## M365 | SharePoint | Power Platform | CoPilot | Azure | SQL | Office
 
